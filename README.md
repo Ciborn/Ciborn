@@ -12,4 +12,4 @@ As you may have probably seen, my name is Robin Bourachot, or as I call myself o
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ciborn&theme=dracula)
 
 ## My current project~~s~~
-The only actual thing I am currently working on is a Discord bot named (https://aldebaran.nightorn.com/home/)[Aldebaran]. It's a multi-purposes bot which is mostly used as a DiscordRPG assistant (because of the variety of tools it offers to improve the player experience), but it can do a lot of things from social/GIF commands to literally random commands!
+The only actual thing I am currently working on is a Discord bot named [Aldebaran](https://aldebaran.nightorn.com/home/). It's a multi-purposes bot which is mostly used as a DiscordRPG assistant (because of the variety of tools it offers to improve the player experience), but it can do a lot of things from social/GIF commands to literally random commands!
