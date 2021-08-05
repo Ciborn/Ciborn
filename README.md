@@ -1,6 +1,6 @@
 # Oh, hello!
-![](https://img.shields.io/badge/OS-Debian%2011%20"Bullseye"-informational?style=flat&logo=debian&logoColor=white&color=A81D33)
-![](https://img.shields.io/badge/OS-Windows%2010-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/OS-Windows%2011-informational?style=flat&logo=windows&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/OS-%28WSL%29%20Debian%2010-informational?style=flat&logo=debian&logoColor=white&color=A81D33)
 ![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=007ACC)
 ![](https://img.shields.io/badge/Browser-Firefox-informational?style=flat&logo=firefox-browser&logoColor=white&color=FF7139)
 ![](https://img.shields.io/badge/Discord-Ciborn%232844-informational?style=flat&logo=discord&logoColor=white&color=7289DA)
